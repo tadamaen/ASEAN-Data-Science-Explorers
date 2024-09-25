@@ -1,0 +1,221 @@
+Country,Year,Burden Of Disease
+Brunei,2000,31404.48
+Brunei,2001,30749.42
+Brunei,2002,30575.16
+Brunei,2003,30710.21
+Brunei,2004,30573.97
+Brunei,2005,30431.61
+Brunei,2006,30070.42
+Brunei,2007,29460.37
+Brunei,2008,28820.38
+Brunei,2009,28742.79
+Brunei,2010,28726.98
+Brunei,2011,28675.00
+Brunei,2012,28636.07
+Brunei,2013,28769.15
+Brunei,2014,28699.53
+Brunei,2015,28627.64
+Brunei,2016,28432.82
+Brunei,2017,28245.37
+Brunei,2018,28069.01
+Brunei,2019,27814.22
+Cambodia,2000,62054.63
+Cambodia,2001,60387.06
+Cambodia,2002,58631.46
+Cambodia,2003,56770.44
+Cambodia,2004,54859.90
+Cambodia,2005,52804.13
+Cambodia,2006,50774.16
+Cambodia,2007,48958.42
+Cambodia,2008,47139.70
+Cambodia,2009,45731.82
+Cambodia,2010,44660.86
+Cambodia,2011,43393.16
+Cambodia,2012,42217.75
+Cambodia,2013,41342.75
+Cambodia,2014,40522.55
+Cambodia,2015,39846.97
+Cambodia,2016,39208.76
+Cambodia,2017,38604.68
+Cambodia,2018,38027.90
+Cambodia,2019,37509.05
+Indonesia,2000,43971.71
+Indonesia,2001,43419.62
+Indonesia,2002,42855.59
+Indonesia,2003,42297.11
+Indonesia,2004,45789.79
+Indonesia,2005,41125.07
+Indonesia,2006,40732.08
+Indonesia,2007,40025.44
+Indonesia,2008,39468.73
+Indonesia,2009,38974.26
+Indonesia,2010,38374.33
+Indonesia,2011,37756.18
+Indonesia,2012,37256.59
+Indonesia,2013,36829.34
+Indonesia,2014,36359.13
+Indonesia,2015,35940.28
+Indonesia,2016,35378.29
+Indonesia,2017,34985.71
+Indonesia,2018,34562.59
+Indonesia,2019,33996.78
+Laos,2000,67020.63
+Laos,2001,65285.87
+Laos,2002,63206.93
+Laos,2003,61417.31
+Laos,2004,59574.96
+Laos,2005,57873.51
+Laos,2006,56285.44
+Laos,2007,54451.88
+Laos,2008,52770.73
+Laos,2009,51048.37
+Laos,2010,49299.32
+Laos,2011,47658.82
+Laos,2012,46175.36
+Laos,2013,45012.95
+Laos,2014,43640.74
+Laos,2015,42638.44
+Laos,2016,41706.65
+Laos,2017,40876.90
+Laos,2018,40232.44
+Laos,2019,39468.53
+Malaysia,2000,30290.10
+Malaysia,2001,29645.83
+Malaysia,2002,29401.90
+Malaysia,2003,29353.75
+Malaysia,2004,28784.21
+Malaysia,2005,28322.14
+Malaysia,2006,27896.76
+Malaysia,2007,27654.33
+Malaysia,2008,27897.15
+Malaysia,2009,28153.28
+Malaysia,2010,27659.92
+Malaysia,2011,27435.90
+Malaysia,2012,27298.72
+Malaysia,2013,26583.41
+Malaysia,2014,27023.12
+Malaysia,2015,27144.82
+Malaysia,2016,27013.92
+Malaysia,2017,26907.99
+Malaysia,2018,26685.72
+Malaysia,2019,26886.78
+Myanmar,2000,65902.08
+Myanmar,2001,64586.19
+Myanmar,2002,63254.19
+Myanmar,2003,61793.05
+Myanmar,2004,60399.48
+Myanmar,2005,58665.90
+Myanmar,2006,57022.90
+Myanmar,2007,55170.90
+Myanmar,2008,68749.22
+Myanmar,2009,51687.83
+Myanmar,2010,49825.16
+Myanmar,2011,48248.10
+Myanmar,2012,46656.49
+Myanmar,2013,45183.56
+Myanmar,2014,43771.80
+Myanmar,2015,42744.32
+Myanmar,2016,41601.05
+Myanmar,2017,41492.43
+Myanmar,2018,39628.02
+Myanmar,2019,38863.36
+Papua New Guinea,2000,54709.93
+Papua New Guinea,2001,55250.95
+Papua New Guinea,2002,55879.19
+Papua New Guinea,2003,56361.34
+Papua New Guinea,2004,56870.51
+Papua New Guinea,2005,57070.57
+Papua New Guinea,2006,57042.24
+Papua New Guinea,2007,56756.02
+Papua New Guinea,2008,56230.99
+Papua New Guinea,2009,56059.28
+Papua New Guinea,2010,55532.28
+Papua New Guinea,2011,55017.00
+Papua New Guinea,2012,54604.49
+Papua New Guinea,2013,53593.78
+Papua New Guinea,2014,52788.06
+Papua New Guinea,2015,52243.38
+Papua New Guinea,2016,51826.48
+Papua New Guinea,2017,51384.84
+Papua New Guinea,2018,51001.26
+Papua New Guinea,2019,50368.20
+Philippines,2000,37885.01
+Philippines,2001,37879.61
+Philippines,2002,37824.40
+Philippines,2003,37432.44
+Philippines,2004,37271.14
+Philippines,2005,37214.25
+Philippines,2006,37385.60
+Philippines,2007,36810.60
+Philippines,2008,36869.26
+Philippines,2009,36839.50
+Philippines,2010,36390.98
+Philippines,2011,36226.05
+Philippines,2012,35986.03
+Philippines,2013,36300.91
+Philippines,2014,35418.66
+Philippines,2015,35510.18
+Philippines,2016,35265.92
+Philippines,2017,35017.88
+Philippines,2018,34278.84
+Philippines,2019,33798.13
+Singapore,2000,20194.74
+Singapore,2001,19656.58
+Singapore,2002,19310.94
+Singapore,2003,18954.05
+Singapore,2004,18590.38
+Singapore,2005,18026.63
+Singapore,2006,17756.81
+Singapore,2007,17535.10
+Singapore,2008,17277.96
+Singapore,2009,16928.39
+Singapore,2010,16657.53
+Singapore,2011,16375.10
+Singapore,2012,16230.52
+Singapore,2013,15986.32
+Singapore,2014,15731.91
+Singapore,2015,15538.92
+Singapore,2016,15334.68
+Singapore,2017,15123.22
+Singapore,2018,15090.82
+Singapore,2019,15045.11
+Thailand,2000,34685.08
+Thailand,2001,33277.52
+Thailand,2002,32867.09
+Thailand,2003,32045.62
+Thailand,2004,31646.84
+Thailand,2005,29737.00
+Thailand,2006,28545.66
+Thailand,2007,27451.15
+Thailand,2008,26749.61
+Thailand,2009,26250.51
+Thailand,2010,25954.05
+Thailand,2011,25500.36
+Thailand,2012,25137.30
+Thailand,2013,24792.51
+Thailand,2014,24683.68
+Thailand,2015,24619.76
+Thailand,2016,24782.37
+Thailand,2017,24492.51
+Thailand,2018,24384.93
+Thailand,2019,24227.12
+Vietnam,2000,32101.73
+Vietnam,2001,31752.80
+Vietnam,2002,31435.15
+Vietnam,2003,31214.56
+Vietnam,2004,31010.47
+Vietnam,2005,30813.26
+Vietnam,2006,30571.01
+Vietnam,2007,30421.42
+Vietnam,2008,30271.10
+Vietnam,2009,30054.56
+Vietnam,2010,29775.82
+Vietnam,2011,29533.13
+Vietnam,2012,29256.74
+Vietnam,2013,29024.23
+Vietnam,2014,28769.73
+Vietnam,2015,28515.24
+Vietnam,2016,28284.76
+Vietnam,2017,28045.02
+Vietnam,2018,27795.21
+Vietnam,2019,27542.64

@@ -1,0 +1,232 @@
+Entity,Year,Average Life Expectancy
+Brunei,2000,74.08
+Brunei,2001,74.28
+Brunei,2002,74.43
+Brunei,2003,74.56
+Brunei,2004,74.65
+Brunei,2005,74.73
+Brunei,2006,74.78
+Brunei,2007,74.82
+Brunei,2008,74.84
+Brunei,2009,74.85
+Brunei,2010,74.85
+Brunei,2011,74.86
+Brunei,2012,74.83
+Brunei,2013,74.80
+Brunei,2014,74.78
+Brunei,2015,74.75
+Brunei,2016,74.73
+Brunei,2017,74.72
+Brunei,2018,74.71
+Brunei,2019,74.75
+Brunei,2020,74.79
+Cambodia,2000,58.63
+Cambodia,2001,59.97
+Cambodia,2002,61.23
+Cambodia,2003,62.52
+Cambodia,2004,63.55
+Cambodia,2005,64.29
+Cambodia,2006,65.06
+Cambodia,2007,65.73
+Cambodia,2008,66.47
+Cambodia,2009,67.44
+Cambodia,2010,67.71
+Cambodia,2011,68.42
+Cambodia,2012,68.91
+Cambodia,2013,69.30
+Cambodia,2014,69.74
+Cambodia,2015,69.87
+Cambodia,2016,70.22
+Cambodia,2017,70.52
+Cambodia,2018,70.56
+Cambodia,2019,70.69
+Cambodia,2020,70.42
+Indonesia,2000,66.43
+Indonesia,2001,66.76
+Indonesia,2002,67.13
+Indonesia,2003,67.41
+Indonesia,2004,65.75
+Indonesia,2005,67.65
+Indonesia,2006,67.91
+Indonesia,2007,68.19
+Indonesia,2008,68.23
+Indonesia,2009,68.49
+Indonesia,2010,68.68
+Indonesia,2011,68.82
+Indonesia,2012,68.97
+Indonesia,2013,69.26
+Indonesia,2014,69.53
+Indonesia,2015,69.70
+Indonesia,2016,69.80
+Indonesia,2017,69.94
+Indonesia,2018,70.34
+Indonesia,2019,70.52
+Indonesia,2020,68.81
+Laos,2000,58.38
+Laos,2001,59.07
+Laos,2002,59.53
+Laos,2003,60.03
+Laos,2004,60.29
+Laos,2005,60.98
+Laos,2006,61.49
+Laos,2007,62.08
+Laos,2008,62.60
+Laos,2009,63.27
+Laos,2010,63.97
+Laos,2011,64.74
+Laos,2012,65.36
+Laos,2013,65.72
+Laos,2014,66.36
+Laos,2015,66.67
+Laos,2016,67.17
+Laos,2017,67.43
+Laos,2018,67.63
+Laos,2019,68.14
+Laos,2020,68.50
+Malaysia,2000,72.78
+Malaysia,2001,73.34
+Malaysia,2002,73.56
+Malaysia,2003,73.80
+Malaysia,2004,73.90
+Malaysia,2005,74.10
+Malaysia,2006,74.16
+Malaysia,2007,74.21
+Malaysia,2008,74.25
+Malaysia,2009,74.23
+Malaysia,2010,74.44
+Malaysia,2011,74.75
+Malaysia,2012,74.94
+Malaysia,2013,75.03
+Malaysia,2014,75.15
+Malaysia,2015,75.09
+Malaysia,2016,75.29
+Malaysia,2017,75.48
+Malaysia,2018,75.64
+Malaysia,2019,75.76
+Malaysia,2020,75.94
+Myanmar,2000,60.15
+Myanmar,2001,60.42
+Myanmar,2002,60.72
+Myanmar,2003,60.98
+Myanmar,2004,61.25
+Myanmar,2005,61.60
+Myanmar,2006,61.89
+Myanmar,2007,62.37
+Myanmar,2008,56.51
+Myanmar,2009,63.15
+Myanmar,2010,63.33
+Myanmar,2011,63.90
+Myanmar,2012,64.14
+Myanmar,2013,64.81
+Myanmar,2014,65.06
+Myanmar,2015,65.56
+Myanmar,2016,65.69
+Myanmar,2017,65.84
+Myanmar,2018,66.46
+Myanmar,2019,66.61
+Myanmar,2020,66.80
+Papua New Guinea,2000,61.72
+Papua New Guinea,2001,61.77
+Papua New Guinea,2002,61.70
+Papua New Guinea,2003,61.80
+Papua New Guinea,2004,61.76
+Papua New Guinea,2005,61.80
+Papua New Guinea,2006,61.92
+Papua New Guinea,2007,62.03
+Papua New Guinea,2008,62.57
+Papua New Guinea,2009,62.79
+Papua New Guinea,2010,63.04
+Papua New Guinea,2011,63.53
+Papua New Guinea,2012,63.73
+Papua New Guinea,2013,63.96
+Papua New Guinea,2014,64.26
+Papua New Guinea,2015,64.70
+Papua New Guinea,2016,64.84
+Papua New Guinea,2017,65.10
+Papua New Guinea,2018,65.18
+Papua New Guinea,2019,65.47
+Papua New Guinea,2020,65.79
+Philippines,2000,69.41
+Philippines,2001,69.61
+Philippines,2002,69.78
+Philippines,2003,69.92
+Philippines,2004,70.04
+Philippines,2005,70.24
+Philippines,2006,70.28
+Philippines,2007,70.48
+Philippines,2008,70.56
+Philippines,2009,70.63
+Philippines,2010,70.75
+Philippines,2011,70.79
+Philippines,2012,70.88
+Philippines,2013,70.83
+Philippines,2014,71.15
+Philippines,2015,71.27
+Philippines,2016,71.39
+Philippines,2017,71.52
+Philippines,2018,71.69
+Philippines,2019,71.86
+Philippines,2020,72.12
+Singapore,2000,79.07
+Singapore,2001,79.19
+Singapore,2002,79.30
+Singapore,2003,79.40
+Singapore,2004,79.77
+Singapore,2005,80.35
+Singapore,2006,80.71
+Singapore,2007,80.96
+Singapore,2008,81.17
+Singapore,2009,81.46
+Singapore,2010,81.69
+Singapore,2011,81.97
+Singapore,2012,82.24
+Singapore,2013,82.52
+Singapore,2014,82.65
+Singapore,2015,82.83
+Singapore,2016,83.00
+Singapore,2017,83.22
+Singapore,2018,83.46
+Singapore,2019,83.76
+Singapore,2020,82.86
+Thailand,2000,72.32
+Thailand,2001,72.61
+Thailand,2002,72.93
+Thailand,2003,73.15
+Thailand,2004,73.08
+Thailand,2005,73.82
+Thailand,2006,74.94
+Thailand,2007,75.19
+Thailand,2008,75.49
+Thailand,2009,75.84
+Thailand,2010,76.13
+Thailand,2011,76.42
+Thailand,2012,76.77
+Thailand,2013,77.08
+Thailand,2014,77.42
+Thailand,2015,77.72
+Thailand,2016,78.05
+Thailand,2017,78.39
+Thailand,2018,78.66
+Thailand,2019,78.98
+Thailand,2020,79.27
+Vietnam,2000,72.46
+Vietnam,2001,72.65
+Vietnam,2002,72.80
+Vietnam,2003,72.98
+Vietnam,2004,73.14
+Vietnam,2005,73.27
+Vietnam,2006,73.32
+Vietnam,2007,73.44
+Vietnam,2008,73.41
+Vietnam,2009,73.50
+Vietnam,2010,73.51
+Vietnam,2011,73.69
+Vietnam,2012,73.70
+Vietnam,2013,73.78
+Vietnam,2014,73.85
+Vietnam,2015,73.88
+Vietnam,2016,73.94
+Vietnam,2017,73.96
+Vietnam,2018,73.98
+Vietnam,2019,74.09
+Vietnam,2020,75.38
